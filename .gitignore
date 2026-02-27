@@ -1,0 +1,5 @@
+*.o
+*.so
+logger_app
+mylog.txt
+.vscode/
